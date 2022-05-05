@@ -19,6 +19,7 @@
     "@cypress/react": "^5.12.4",
     "@cypress/webpack-dev-server": "^1.8.4",
     "cypress": "^9.6.0",
+    "cypress-real-events": "^1.7.0",
     "prettier": "^2.6.2"
   },
   "browserslist": [
